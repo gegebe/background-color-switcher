@@ -4,6 +4,9 @@ Al hacer clic en cada uno de los círculos de colores, el color de fondo del bod
 
 [Demo](https://js-beginners.github.io/background-color-switcher/)
 
+## Instrucciones. 
+
+0. Estas instrucciones explican como hacer el ejercicio de manera optima con liseners. Si no hemos llegado a explicar esto todavía, podéis usar el atributo **onclick** en cada círculo
 1. Utiliza el método querySelectorAll para recuperar todos los botones
 2. Asocia un evento click a cada uno de ellos. Comprueba que al hacer clic en cada uno de ellos, te aperece un mensaje por consola.
 3. Inspecciona el objeto 'Event' que te pasa la función asociada al __listener__; para averiguar que propiedad debes usar para saber qué elemento HTML ha emitido el evento click.
